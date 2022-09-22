@@ -1645,16 +1645,16 @@ NetLogo 6.1.0
     <metric>count turtles with [core = 2 and species = 7]</metric>
     <metric>count turtles with [core = 2 and species = 8]</metric>
     <metric>count turtles with [core = 2 and species = 9]</metric>
-    <metric>count turtles with [ss-use and species = 0]</metric>
-    <metric>count turtles with [ss-use and species = 1]</metric>
-    <metric>count turtles with [ss-use and species = 2]</metric>
-    <metric>count turtles with [ss-use and species = 3]</metric>
-    <metric>count turtles with [ss-use and species = 4]</metric>
-    <metric>count turtles with [ss-use and species = 5]</metric>
-    <metric>count turtles with [ss-use and species = 6]</metric>
-    <metric>count turtles with [ss-use and species = 7]</metric>
-    <metric>count turtles with [ss-use and species = 8]</metric>
-    <metric>count turtles with [ss-use and species = 9]</metric>
+    <metric>count turtles with [ss_use and species = 0]</metric>
+    <metric>count turtles with [ss_use and species = 1]</metric>
+    <metric>count turtles with [ss_use and species = 2]</metric>
+    <metric>count turtles with [ss_use and species = 3]</metric>
+    <metric>count turtles with [ss_use and species = 4]</metric>
+    <metric>count turtles with [ss_use and species = 5]</metric>
+    <metric>count turtles with [ss_use and species = 6]</metric>
+    <metric>count turtles with [ss_use and species = 7]</metric>
+    <metric>count turtles with [ss_use and species = 8]</metric>
+    <metric>count turtles with [ss_use and species = 9]</metric>
     <enumeratedValueSet variable="perc_small">
       <value value="0"/>
       <value value="0.1"/>
